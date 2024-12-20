@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="url">jdbc:oracle:thin:@//10.2.16.239:1521/XEPDB1</entry>
+    <entry key="user">Projecte</entry>
+    <entry key="password">proj</entry>
+</properties>
